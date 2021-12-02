@@ -27,7 +27,7 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background(230);
+  background("red");
  
   pelota.display();
   groundObject.display();
